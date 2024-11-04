@@ -4,7 +4,7 @@ Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a 
 
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/JobReadyProgrammer/The-Complete-Oracle-SQL-Certification-Course/refs/heads/main/JRP%20Oracle%20SQL%20Course%20New%20Banner.jpg">
 
-Source Code for the [Complete Oracle SQL Certification Course](https://www.udemy.com/course/the-complete-oracle-sql-certification-course/)
+This GitHub Repository will include the Source Code for the [Complete Oracle SQL Certification Course](https://www.udemy.com/course/the-complete-oracle-sql-certification-course/) (Work in progress ⏳)
 
 ### Note for newcomers
 
