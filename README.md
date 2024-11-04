@@ -4,7 +4,8 @@ Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a 
 
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/JobReadyProgrammer/The-Complete-Oracle-SQL-Certification-Course/refs/heads/main/JRP%20Oracle%20SQL%20Course%20New%20Banner.jpg">
 
-This GitHub Repository will include the Source Code for the [Complete Oracle SQL Certification Course](https://www.udemy.com/course/the-complete-oracle-sql-certification-course/) (Work in progress ⏳)
+This GitHub Repository will include the Source Code for the [Complete Oracle SQL Certification Course](https://www.udemy.com/course/the-complete-oracle-sql-certification-course/)
+(Work in progress ⏳)
 
 ### Note for newcomers
 
@@ -68,3 +69,5 @@ Checkout our complete course on the following platforms:
 - In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and JavaScript.
 - He’s the founder of Job Ready Programmer — an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses.
 - Take the twin highway of Learning Data Analysis and Software Development on a single platform: Job Ready Programmer
+
+<img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/JobReadyProgrammer/JobReadyProgrammer/main/JRP_GitHub_Banner.png">
