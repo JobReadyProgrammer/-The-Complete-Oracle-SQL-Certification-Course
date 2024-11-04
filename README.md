@@ -4,6 +4,26 @@
 
 Source Code for the [Complete Oracle SQL Certification Course](https://www.udemy.com/course/the-complete-oracle-sql-certification-course/)
 
+## Topics covered in this course :
+
+- Basics of Tables
+- SELECT and WHERE Clause
+- WHERE, AND & OR with Operators
+- BETWEEN, IN and NULL
+- Single Table Queries
+- Single Row Functions
+- Grouping Functions
+- GROUP BY and HAVING Clause
+- Joins
+- Inner and Outer Joins
+- EXISTS & NOT EXIST Operators
+- Creating Your Own Tables
+- Using ALTER
+- Creating Tables with SELECT & UPDATE Data
+- DELETE, TRUNCATE, and DROP Commands
+- System Tables, Pseudo Columns & Deleting Duplicates (Newly Added)
+- Views and Other Objects and Commands (Newly Added)
+
 ### Contact us
 - Learn more: [jobreadyprogrammer.com](https://jobreadyprogrammer.com/)
 - Email us: info@jobreadyprogrammer.com
