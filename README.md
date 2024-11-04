@@ -46,6 +46,15 @@ Checkout our complete course on the following platforms:
 - System Tables, Pseudo Columns & Deleting Duplicates (Newly Added)
 - Views and Other Objects and Commands (Newly Added)
 
+## Testimonials
+
+- Do you have no prior experience in SQL development? This course is perfect for you. Don't take it from me, take it from actual students that took this course:
+  - "I am a beginner and the way this course starts is perfect for the person who has no introduction of SQL or Oracle."
+- Do you have prior experience, but need a refresher or to fine-tune your skills? This is the course for you. Again, I'll let my students do the talking:
+  - "I had a good base of knowledge from my last employment. This course is constantly proving useful to supercharge my actual knowledge base. Very good one!"
+- Have you taken a SQL course before, but felt confused on certain topics or not completely satisfied in your abilities? A lot of my students had shared similar concerns:
+  - "I had previously taken a college course about databases and SQL, but these ten hours of content were more clear and useful than the course and textbook."
+
 ### Contact us
 - Learn more: [jobreadyprogrammer.com](https://jobreadyprogrammer.com/)
 - Email us: info@jobreadyprogrammer.com
